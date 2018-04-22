@@ -1,0 +1,28 @@
+PODS:
+  - Cordova (4.5.4)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - SSZipArchive (2.1.2)
+
+DEPENDENCIES:
+  - Cordova (~> 4.5.4)
+  - NJKWebViewProgress (~> 0.2.3)
+  - SSZipArchive (~> 2.1.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Cordova
+    - NJKWebViewProgress
+    - SSZipArchive
+
+SPEC CHECKSUMS:
+  Cordova: 90a337977b8667a80483f559268c82062b1183da
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  SSZipArchive: d4009d2ce5520a421f231fd97028cc0e2667eed8
+
+PODFILE CHECKSUM: f27e1df267f8b5af65b7a368bcc1c33ef82afdf2
+
+COCOAPODS: 1.5.0
